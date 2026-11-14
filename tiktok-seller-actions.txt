@@ -1,0 +1,28 @@
+﻿TikTok Shop Seller Center action log
+Date: 2026-11-14 (GMT+7)
+
+- Opened TikTok Shop Seller Center (VN).
+- Prepared and sent the creator collaboration invitation "Chiến dịch Creator 7 ngày".
+- Set the invitation expiry to 2026-12-14.
+- Selected 50 creators and 25 products.
+- Set standard commission to 10% and Store Ads commission to 4.3% for all 25 products.
+- Verified the invitation success confirmation.
+- Clicked "Nhắn tin cho nhà sáng tạo" twice; the chat view did not appear in the shared canvas, so direct messages were not confirmed as sent.
+
+Second collaboration invitation (2026-11-14 GMT+7)
+- Prepared and sent "Chiến dịch Creator 7 ngày (2)".
+- Selected the top 50 recommended creators and the same 25 products as the prior invitation.
+- Set expiry to 2026-12-14, no preferred content type, standard commission 10%, and Store Ads commission 4.3%.
+- Verified TikTok Shop's success confirmation.
+
+Third collaboration invitation (2026-11-14 GMT+7)
+- Prepared and sent "Creator 7 ngày (3)".
+- Selected 50 creators: 45 recommended creators from the next results page and 5 relevant creators from the current recommendations.
+- Selected the same 25 products, with expiry 2026-12-14, no preferred content type, standard commission 10%, and Store Ads commission 4.3%.
+- Verified TikTok Shop's success confirmation.
+
+Fourth collaboration invitation (2026-11-14 GMT+7)
+- Prepared and sent "Creator 7 ngày (4)".
+- Selected 50 creators with no duplicate-invitation warnings, using recommendations and additional relevant creators.
+- Selected the same 25 products, with expiry 2026-12-14, no preferred content type, standard commission 10%, and Store Ads commission 4.3%.
+- Verified TikTok Shop's success confirmation.
